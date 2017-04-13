@@ -1,0 +1,266 @@
+=== WP SVG Icons Pro ===
+Contributors: eherman24
+Donate link: http://www.evan-herman.com/contact/?contact-reason=I%20want%20to%20make%20a%20donation%20for%20all%20your%20hard%20work
+Tags: wordpress, icons, evan, herman, icon, set, svg, wp, icomoon, ico, moon, wp, zoom, wp-zoom, wpzoom, broccolidry, metoicons, iconic, plugin, responsive, bootstrap, font, awesome, font awesome, twitter, glyphicons, glyph, web, font, webfont
+Requires at least: 3.5
+Tested up to: 4.5
+Stable tag: 1.2.7
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Users can now import custom icon packs! This plugin will also install 500+ SVG glyph icons for use on the front end or dashboard of your site. 
+
+== Description ==
+
+**Brand New Feature** 
+**Icomoon Icon Importer**
+
+http://www.youtube.com/watch?v=8bRny8gW2_k
+
+We've listened to your feature requests, and after many countless hours behind the keyboard developing, we're pleased to announce our newest addition to WP SVG Icons.
+
+Now, you're no longer limited to the icons that come pre-packaged with the plugin. Create an unlimited number of custom icon combinations and start using them on your site in a matter of minutes.
+
+**How To:**
+
+1. Visit <a href="http://icomoon.io/app/#/select">IcoMoon</a> and begin selecting icons you want to use. 
+1. Import icomoon icons from the library
+1. select which icons you want to include in your pack
+1. Click 'Font' at the bottom of the browser window
+1. Click 'Preferences' and input a font-name and a customized prefix (must end in - for best results)
+1. Click 'Download'
+1. Import the .zip right into the plugin and start using your fonts! No coding required!
+
+Keep the feature requests coming, I'm listening!!!
+
+**Demo Page**
+
+<a href="http://www.evan-herman.com/wp-svg-icons/">Check Out The Plugin Demo Page</a>
+
+I originally created this plugin for my own personal use on client projects. After witnessing the power of this plugin first hand, I wanted 
+
+to give a little something back to the community who have helped me through the years. The 'WordPress SVG Icon Set' is extremely
+
+easy for any one to use. Two clicks of the mouse and you have an icon ready to be placed on to your site. 
+
+These icons are a set of web-fonts, and are extremely scale-able. Meaning they will not degrade in quality the larger they get. Another
+
+great feature of this plugin is the ability to use the same icons across all devices. No need to generate Retina specific images for mobile
+
+devices. By setting a max-width on the icon, it then becomes responsive.
+
+This plugin is also great for developers who use icons on multiple sites and want to avoid the hassle of re-installing
+
+web fonts on to a new server every time. With this plugin its one click and you're ready to begin working. You can use
+
+these any where in your themes.
+
+**Basic Plugin Demo**
+
+http://www.youtube.com/watch?v=hXUJjQb82WY
+
+**Features**
+
+* OVER 500 ICONS INCLUDED
+* Import your own custom svg icons
+* Download and import your own custom icon build from <a href="http://icomoon.io/app/#/select">IcoMoon</a>
+* Insert Icons Directly Into Posts
+* Expansion section - updated with new icons frequently
+* Pro Version still in Development - plans to release as unpaid
+* Pre-defined classes for easy icon styling
+* Demo/Example page with sample code and Icon Playground
+
+**Usage**
+
+To include an icon on to any page of your site, simply click on the icon that you want to use and copy the provided code.
+
+The icon code will look like the following:
+
+`<div data-icon="&#xe016;"></div>`
+
+It is also extremely simple to change the size of the icon . To do so, just add an inline font-size property to the div that is holding your icon.
+
+*For example:*
+
+`<div data-icon="&#xe016;" style="font-size:3em;"></div>`
+
+Will increase the icon size to 3em. You may also specify 'px' or '%' as the measurement.
+
+You may also change the color of the icon, for when you need to stick to a color scheme.
+
+*For example:*
+
+`<div data-icon="&#xe016;" style="color:#007ab7"></div>`
+
+Will change the icon color to blue.
+
+Another great feature is the ability to add CSS3 animation, such as color fade on hover. This is acheived by first adding an ID or class to the icon and utilizing the CSS3 pseudo classes.
+
+You can add the style directly before the icon, or you can simply add it to your existing CSS3 Stylesheet.
+
+*For example:*
+
+CSS3 Code
+
+`<style>#pac-man-icon:hover { color: #d9f200; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; }</style>`
+
+Icon Code
+
+`<div data-icon="&#xe016;" id="pac-man-icon"></div>`
+
+Will create a PacMan Icon, give it the ID of pac-man-icon, and assign the :hover pseudo class to the icon.
+
+When a user hovers over the icon, the icon will then fade colors to an appropriate PacMan yellow over .5 seconds.
+
+These icons can also be used inside of buttons, dropdowns, menu items, unordered lists, category icons. The use is endless.
+
+For my final example I wanted to show how the icons can be used inside of a button.
+
+*For example:*
+
+`<button class="button-secondary"><div data-icon="&#xe016;" id="pac-man-icon"> This is my PacMan Button</div></button>`
+
+This will create a very nice looking button with your Icon to the left hand side of the button with the text' This is my PacMan Button'.
+
+*note: button-secondary is a class to assign to buttons on the admin dashboard of your site, it will not look great on the front end.*
+
+*Developing plugins is long and tedious work. If you benefit or enjoy this plugin please take the time to rate
+
+and review it, as this will only make future iterations of it better.*
+
+**Special Thanks Goes To:**
+
+* [IcoMoon](http://www.icomoon.io) for an amazing base set of free icon's for use, many in this plugin.
+
+* [Alessio Atzeni](http://www.alessioatzeni.com/) for the inclusion of a few 'Metoicons' icons in this plugin.
+
+* [PJ Onori](http://somerandomdude.com) for the inclusion of a few 'Iconic' icons in this plugin.
+
+**and of course**
+
+* [Matt Mullenweg](http://www.ma.tt/) for everything he does for the WordPress community. Without him none of this would be possible.
+
+== Installation ==
+
+1. Upload `wordpress-svg-icons-plugin.zip` to the `/wp-content/plugins/` directory
+
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+3. Go to the 'WP SVG Icon' plugin page in the dashboard
+
+4. Click on which icon you would like to use
+
+5. A preview of the icon will then appear in the preview box at the top. Copy the generated code out of the 'example' box.
+
+6. You may now paste the copied code anywhere you want the icon to appear. (even in posts or anywhere in your templates)
+
+== Frequently Asked Questions ==
+
+= I need some help! What's the best way to go about getting support? =
+
+I have moved all support over to a <a href="http://www.evan-herman.com/wordpress-support/" target="_blank">support forum</a> on my website. I've done this to keep all of my plugin support in a centralized location so other users can easily find solutions before submitting requests. I have also decided to offer a premium level of support. Support will be answered very infrequently here in the repository. 
+
+<strong>If you have a question, found a bug or require assistance please direct yourself to the support forum , sign up and open a new thread explaining your issue in detail. I will get back to you shortly with assistance.</strong>
+
+= When I include the provided code in a post, all that appears is the code. No icon appears. Why? =
+
+Make sure that you are entering the provided code in the 'text' section of the post editor. If you are putting the code into the 'visual' editor, it will not work.
+
+= Will these icons loose quality as they scale up? =
+
+No. These icons are not .png or .jpg format. They are .svg (scalable vector graphics), which means you can scale them as large as you want with out any loss in quality.
+
+= Can you change the color of the icons? =
+
+Yes, by specifying an in-line color property to the div. 
+
+= Can you add animations to the icons? =
+
+Yes, but you will need to know how to code CSS3 animations. 
+
+= What is so different between the free and the pro version? =
+
+The pro version was built with ease of use for the end user in mind. The pro version comes with an icon customization window where users can much more easily change the icon size and icon color. The customization window also features 59 pre-built CSS3 animations
+which users can add to any icon in the library. On top of that users can choose when to animate the icon from options such as 'On Load', 'On Hover' and 'On Click'. Within the customization window users can also add a drop shadow, or make the icon appear 3D
+with just one click, all while watching the changes in real time within the 'Icon Preview Window'. Users also hve the ability to turn the icon in to a functioning link to an internal or external page. Once the user is content with the final icon design, they click 'Generate 
+Code' where they are given all the necessary code to place that icon anywhere on your site.
+
+It's as easy as copy and paste.
+
+If you buy the pro version you will also receive support for one year, for those times you need to make something out of the ordinary happen.
+
+== Screenshots ==
+
+1. Main plugin screen. Pacman icon selected, generated code visible.
+2. Some more icons included in this plugin.
+3. All included icons in the icon selection screen in the dashboard.
+4. The new expansion section, with the new linked in rounded icon
+5. New Custom Icon Pack importer page without a pack installed
+6. New Custom Icon Pack importer page with a Custom Icon Pack from icomoon installed
+
+== Changelog ==
+
+= 1.2.7 - March 11th 2016 =
+ * Updated the custom nav walker to work with ALL nav elements. Disabling custom nav walker allows you to assign icons via class names. Enabling custom nav walker uses the bundled nav walker for your navigations.
+ * Adjusted 'No Animation' icons -> now they have a smooth fade between background/icon color on hover. (standard color fades, nothing fancy - user requested).
+
+ = 1.2.6 - January 30th, 2016 =
+ * Removed spare `</span>` tag in the nav walker when no icon was being used, which was throwing some themes off.
+
+= 1.2.5 - November 11th, 2015 =
+ * Some themes had issues with icon animations (click/hover)
+ * Adjusted animated icons/icon containers to utilize the class 'animated-icon' instead of 'animated'
+ 
+ = 1.2.4 - November 4th, 2015 =
+ * Some themes had issues loading the custom icon pack, so we shifted some things around to ensure they are loaded properly on the front end
+ 
+= 1.2.3 - October 29th, 2015 =
+ * Fixed glitch where all icon containers were not expanding beyond 60px
+
+= 1.2.2 =
+* Fixed issue where only some animations were working as intended.
+
+= 1.2.1 =
+* Change function 'hex2rgba' to 'eherman_hex2rgba' to prevent name space conflicts with other themes & plugins
+
+= 1.2.0 =
+* Fix remote activation/deactivation/support requests
+
+= 1.1.9 =
+* Fix issue with support page not accepting license keys
+* Fix issue priority support tickets not able to be sent
+
+= 1.1.8 =
+* Fix issue where custom standard icons were not rendering on the front end
+
+= 1.1.7 =
+* Fix issue where custom icon containers were not rendering on the front end
+
+= 1.1.6 =
+* Fix incompatability with Jetpack throwind wp_get_current_user() doesn't exist error.
+
+= 1.1.5/1.1.5.1 =
+* Fix incompatibility with 'Nav Menu Roles' - By Kathy Darling (https://wordpress.org/plugins/nav-menu-roles/)
+
+= 1.1.4 =
+* Minor CSS fix where some themes were overriding our icon font family; added !important to our font classes
+
+= 1.1.2 / 1.1.3 =
+* Updated uninstall class to remove all plugin options on uninstall
+* Fixed custom icons not rendering on front end properly
+
+= 1.1.1 =
+* Fixed plugin name cosntant in the plugin updater class
+
+= 1.1 =
+* Included our new 'repeat' parameter, allowing icons to be repeated a set number of times.
+* Included our new 'rotate' parameter, allowing icons to be rotated a set number of degrees.
+* Namespaced our custom nav walker class name, causing conflicts with certain themes.
+* Repaired incorrect plugin name, preventing automatic updates from occurring.
+
+= 1.0 =
+* Initial release of pro - March 3rd, 2015
+
+== Demo Page ==
+
+<p> Check out the <a href="http://www.evan-herman.com/wp-svg-icons/">demo page</a> for icon examples, the icon playground and code samples before downloading.</p>
