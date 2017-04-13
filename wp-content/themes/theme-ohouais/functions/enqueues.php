@@ -13,7 +13,7 @@
 
 		wp_enqueue_style( 'owltransitioncss', get_template_directory_uri() . '/css/owl.transitions.css');
 
-		wp_enqueue_style( 'templatecss', get_template_directory_uri() . '/css/template.css');
+		wp_enqueue_style( 'stylecss', get_stylesheet_uri());
 
 		/* js */
 

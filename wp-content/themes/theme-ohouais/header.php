@@ -7,45 +7,6 @@
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-
-
-	<style>
-		
-	.logo2{
-		display: none;
-	}
-
-	.page-id-1313 .logo2{
-		display: block;
-	}
-
-	.page-id-1313 .logo1{
-		display: none;
-	}
-
-
-	.page-id-1313 .close2{
-		display: block;
-	}
-
-	.page-id-1313 .close1{
-		display: none;
-	}
-
-	.close2{
-		display: none;
-	}
-
-	.close-contact-listing img {
-    width: 25px;
-}
-
-.close-contact-listing .close2 img{
-	width: 15px;
-} 
-
-	</style>
-
 	<header>
 
 		<!-- /.slide home -->
