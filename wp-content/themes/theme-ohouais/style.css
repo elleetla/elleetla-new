@@ -1061,10 +1061,14 @@ p.btn-player-project a:hover img{
 /* Page 404 */
 /******************************/
 
-.title-404 {
-    font-size: 150px;
+#content_404 {
+    text-align: center;
+}
+
+#content_404 h1{
+    font-size: 180px;
     font-weight: bold;
-    margin: 0px 0px 20px 0px;
+    margin: 0;
 }
 
 
