@@ -1,5 +1,12 @@
-<?php 
+<?php
 
+the_post_thumbnail('thumbnail');       // Thumbnail (default 150px x 150px max)
+the_post_thumbnail('medium');          // Medium resolution (default 300px x 300px max)
+the_post_thumbnail('large');           // Large resolution (default 640px x 640px max)
+the_post_thumbnail('full');            // Original image resolution (unmodified)
+add_image_size( 'featured-image-large', 600, 600, true );
+
+// importation
 require_once locate_template('/functions/enqueues.php');
 
 require_once locate_template('/functions/wp_bootstrap_navwalker.php');

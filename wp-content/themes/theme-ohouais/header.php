@@ -7,7 +7,14 @@
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-	<header>
+
+    <?php if ( is_page() ) : ?>
+    <div id="preloader">
+        <div id="status"></div>
+    </div>
+    <?php endif; ?>
+
+    <header>
 
 		<!-- /.slide home -->
 		<?php if ( is_active_sidebar( 'slidehome' ) ) : ?>
@@ -21,28 +28,27 @@
 		<?php endif; ?>
 		<!-- /.top slide home -->
 
+        <?php if ( is_active_sidebar( 'contactinfos' ) ) : ?>
+            <div class="contact-list">
+                <div class="container">
+                    <div class="row">
+
+                        <?php if ( is_active_sidebar( 'contactinfos' ) ) : ?>
+                            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                <?php dynamic_sidebar( 'contactinfos' ); ?>
+                            </div>
+                        <?php endif; ?>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 close-contact-listing">
+                            <p class="close1"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close.png"></a></p>
+                            <p class="close2"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close-white.png"></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <?php endif; ?>
+
 		<nav class="navbar navbar-default">
-
-		<?php if ( is_active_sidebar( 'contactinfos' ) ) : ?>
-		<div class="contact-list">
-			<div class="container">
-				<div class="row">
-
-					<?php if ( is_active_sidebar( 'contactinfos' ) ) : ?>
-					<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-						<?php dynamic_sidebar( 'contactinfos' ); ?>
-					</div>
-					<?php endif; ?>
-
-					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 close-contact-listing">
-						<p class="close1"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close.png"></a></p>
-						<p class="close2"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close-white.png"></a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<?php endif; ?>
-
 		  	<div class="container">
 		  		<div class="row">
 

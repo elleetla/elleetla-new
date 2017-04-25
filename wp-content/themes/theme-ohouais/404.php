@@ -6,8 +6,9 @@
         <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12">
             <div id="content" role="main">
                 <div id="content_404">
-                    <h1>404</h1>
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/404.gif">
                     <p>Oops, Cette page n'a pas pu être trouvée !</p>
+                    <p><a href="#">retour</a></p>
                 </div>
             </div><!-- /#content -->
         </div>

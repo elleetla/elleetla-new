@@ -38,20 +38,25 @@ $(document).ready(function() {
 
     // owl carousel project 
     $("#owl-demo").owlCarousel({
-      navigation : true, // Show next and prev buttons
-      slideSpeed : 300,
-      paginationSpeed : 400,
+        navigation : true, // Show next and prev buttons
+        slideSpeed : 300,
+        paginationSpeed : 400,
     });
 
     // effect header project
     $(window).scroll(function() {
-      if ($(this).scrollTop() > 1){  
-        $('#header-project').addClass("sticky");
-      }else{
-        $('#header-project').removeClass("sticky");
-      }
+        if ($(this).scrollTop() > 1){
+            $('#header-project').addClass("sticky");
+        }else{
+            $('#header-project').removeClass("sticky");
+        }
     });
     
 // Closure javascript sheet elle&la     
 });
 
+$(window).on('load', function(){
+    $('#status').delay(500).fadeOut();
+    $('#preloader').delay(500).fadeOut('slow');
+    $('body').delay(350).css({'overflow':'visible'});
+});
