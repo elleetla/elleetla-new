@@ -9,22 +9,18 @@
 <body <?php body_class(); ?>>
 
     <?php if ( is_page() ) : ?>
-    <div id="preloader">
-        <div id="status"></div>
-    </div>
+        <div id="preloader">
+            <div id="status"></div>
+        </div>
     <?php endif; ?>
 
     <header>
 
 		<!-- /.slide home -->
 		<?php if ( is_active_sidebar( 'slidehome' ) ) : ?>
-				
 			<div id="slide-home">
-					<?php if ( is_active_sidebar( 'slidehome' ) ) : ?>
-						<?php dynamic_sidebar( 'slidehome' ); ?>
-					<?php endif; ?>
+                <?php dynamic_sidebar( 'slidehome' ); ?>
 			</div>
-
 		<?php endif; ?>
 		<!-- /.top slide home -->
 
@@ -43,9 +39,9 @@
                             <p class="close1"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close.png"></a></p>
                             <p class="close2"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close-white.png"></a></p>
                         </div>
-                    </div>
-                </div>
-            </div>
+                    </div><!-- ./row -->
+                </div><!-- ./container -->
+            </div><!-- ./contact-list -->
         <?php endif; ?>
 
 		<nav class="navbar navbar-default">

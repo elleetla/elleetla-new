@@ -7,9 +7,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center mentions-footer">
-					<?php if ( is_active_sidebar( 'sidebar-footer' ) ) : ?>
-						<?php dynamic_sidebar( 'sidebar-footer' ); ?>
-					<?php endif; ?>
+                    <?php dynamic_sidebar( 'sidebar-footer' ); ?>
 				</div>
 			</div>
 		</div>

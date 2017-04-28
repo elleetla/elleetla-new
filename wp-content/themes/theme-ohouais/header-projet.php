@@ -9,17 +9,16 @@
 </head>
 <body <?php body_class(); ?>>
 
-<div id="preloader">
-    <div id="status"></div>
-</div>
+    <?php if ( is_page() ) : ?>
+        <div id="preloader">
+            <div id="status"></div>
+        </div>
+    <?php endif; ?>
 
-	<!-- header-project-detail -->
-	<header id="header-project">
 
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
+	<header id="header-project"><!-- header-project-detail -->
+		<div class="container"><!-- container -->
+			<div class="row"><!-- row -->
 				
 				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-left previous-project">
 					<?php previous_post_link( '%link', '<img src="'.get_template_directory_uri().'/images/previous-project.png"/>' ) ?>
@@ -33,10 +32,6 @@
 					<?php next_post_link( '%link', '<img src="'.get_template_directory_uri().'/images/next-project.png"/>' ) ?>
 				</div>
 
-			</div>
-			<!-- /.row -->
-		</div>
-		<!-- /.container -->
-
-	</header>
-	<!-- /.header-project-detail -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</header><!-- /.header-project-detail -->
