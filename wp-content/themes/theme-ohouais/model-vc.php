@@ -10,15 +10,14 @@ Template Name: Modèle visual composer
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<?php 
+
+                <?php
 					if(have_posts()): 
 						while (have_posts() ): the_post();
-					?>
-						
-					<?php get_template_part('contenu','article');?>
-
-					<?php endwhile; ?>
-				<?php endif; ?>
+                            get_template_part('contenu','article');
+                        endwhile;
+                    endif;
+                ?>
 
 			</div>
 		</div>
