@@ -1,4 +1,5 @@
-<?php get_header(); ?>
+<!-- display page content but in the time being, there is no page -->
+<?php /*get_header(); ?>
 
 <main class="padding-page">
 	<div class="container">
