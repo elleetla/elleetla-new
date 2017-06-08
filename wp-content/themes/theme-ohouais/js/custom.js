@@ -100,7 +100,18 @@ $(document).ready(function() {
     });
     /* in réalisations, filter projets when click on categories navbar */
 
-// Closure javascript sheet elle&la     
+// Closure javascript sheet elle&la
+
+    //Métiers page display "Comment ?" div
+    $(".button-comment").on('click', function () {
+        $(".metiers-comment").toggle('show');
+        $(".metiers-bloc").toggle('hide');
+    });
+
+    $(".close1").on('click', function () {
+        $(".metiers-bloc").toggle('show');
+        $(".metiers-comment").toggle('hide');
+    });
 });
 
 $(window).on('load', function(){

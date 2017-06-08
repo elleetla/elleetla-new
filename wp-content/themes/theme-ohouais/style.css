@@ -125,24 +125,48 @@ a img.aligncenter {
 
 @font-face {
     font-family: 'GTWalsheimProMedium';
-    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium.eot');
-    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium.woff2') format('woff2'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium.woff') format('woff'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium.ttf') format('truetype'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium.svg#GTWalsheimProMedium') format('svg'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium.eot?#iefix') format('embedded-opentype');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.eot');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.woff2') format('woff2'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.woff') format('woff'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.ttf') format('truetype'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.svg#GTWalsheimProMedium') format('svg'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GTWalsheimProRegular';
-    src: url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.eot');
-    src: url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.woff2') format('woff2'),
-    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.woff') format('woff'),
-    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.ttf') format('truetype'),
-    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.svg#GTWalsheimProRegular') format('svg'),
-    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.eot?#iefix') format('embedded-opentype');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.eot');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.woff2') format('woff2'),
+    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.woff') format('woff'),
+    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.ttf') format('truetype'),
+    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.svg#GTWalsheimProRegular') format('svg'),
+    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTWalsheimProBold';
+    src: url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.eot');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.woff2') format('woff2'),
+    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.woff') format('woff'),
+    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.ttf') format('truetype'),
+    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.svg#GTWalsheimProBold') format('svg'),
+    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTWalsheimProLight';
+    src: url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.eot');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.woff2') format('woff2'),
+    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.woff') format('woff'),
+    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.ttf') format('truetype'),
+    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.svg#GTWalsheimProLight') format('svg'),
+    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -1108,22 +1132,95 @@ p.btn-player-project a:hover img{
 
 
 /******************************/
-/* Page Equipe */
+/* Page Métiers */
 /******************************/
-
-.bloc-desc-profile h1 {
-    margin: 0px 0px 8px 0px;
+.metiers-introduction{
+    margin: 35px 15%;
+    font-size:30px;
 }
 
-.bloc-desc-profile h2 {
-    margin: 0px 0px 4px 0px;
-    font-size: 22px;
+#metiers-content{
+    margin: 100px 10% 0;
 }
 
-.profiles-agence h3 {
-    margin: 0px 0px 20px 0px;
+.metiers-membre{
+    float:right;
+    margin-right:50px;
 }
 
+.metiers-membre img{
+    width:582px;
+    height:655px;
+    margin-top:-55px;
+}
+
+.metiers-bloc{
+    padding: 50px 40px;
+    width:681px;
+    height:475px;
+    background-color: #ffffff;
+}
+.metiers-title{
+    font-size:44px;
+    line-height: 1.2;
+    margin-bottom:25px;
+}
+
+.metiers-description{
+    margin-bottom:45px;
+}
+
+.button-comment{
+    background-color: transparent;
+    border:none;
+    color: #dba900;
+}
+
+.metiers-comment{
+    background-color: #0000a0;
+    color:#ffffff;
+    padding:35px 55px;
+    width:681px;
+    height:475px;
+    display:none;
+
+}
+.metiers-comment img{
+    width:21px;
+    height:21px;
+    float:right;
+}
+
+.comment-title{
+    margin-bottom:35px;
+}
+
+.metiers-conclusion{
+    text-align:center;
+    font-size:26px;
+    margin-bottom:70px;
+}
+
+#conclusion2{
+    color: #dba900;
+}
+
+.button-comment,
+.img-caption,
+.conclusion2{
+    font-family: 'GTWalsheimProMedium', sans-serif;
+}
+
+.metiers-title,
+.comment-title{
+    font-family: 'GTWalsheimProBold', sans-serif;
+}
+
+.metiers-description,
+.metiers-comment,
+#conclusion1{
+    font-family: 'GTWalsheimProLight', sans-serif;
+}
 
 /* test */
 
