@@ -1140,18 +1140,23 @@ p.btn-player-project a:hover img{
 }
 
 #metiers-content{
-    margin: 100px 10% 0;
+    padding: 100px 10% 0;
+    background:#f6f7fc;
 }
 
+.metiers-row{
+    height:600px;
+    margin:65px 0;
+    display:block;
+}
 .metiers-membre{
-    float:right;
     margin-right:50px;
 }
 
 .metiers-membre img{
     width:582px;
-    height:655px;
-    margin-top:-55px;
+    height:555px;
+    margin-top:-525px;
 }
 
 .metiers-bloc{
@@ -1188,12 +1193,42 @@ p.btn-player-project a:hover img{
 .metiers-comment img{
     width:21px;
     height:21px;
-    float:right;
 }
 
 .comment-title{
     margin-bottom:35px;
 }
+
+
+/* alternation texte-image */
+/* text on the left, image on the right*/
+
+.membre-right{
+    float:right;
+}
+
+.membre-right p{
+    text-align:right;
+}
+
+.comment-left,
+.bloc-left{
+    position:relative;
+    z-index:1;
+}
+
+/* image on the left, text on the right */
+.membre-left{
+    padding-top: 475px;
+}
+
+.comment-right,
+.bloc-right{
+    position:relative;
+    float:right;
+}
+
+
 
 .metiers-conclusion{
     text-align:center;
@@ -1204,6 +1239,8 @@ p.btn-player-project a:hover img{
 #conclusion2{
     color: #dba900;
 }
+
+
 
 .button-comment,
 .img-caption,
