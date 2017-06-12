@@ -2,110 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcad67c1-f04d-4cab-9cbf-64b164fa5720" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/languages/duplicate_page-cs_CZ.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/languages/duplicate_page-hi_IN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/11/premiere_FRJ_suggestion-1024x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/11/premiere_FRJ_suggestion-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/11/premiere_FRJ_suggestion-300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/11/premiere_FRJ_suggestion-768x768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/11/premiere_FRJ_suggestion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/10_1200x800-1024x684.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/10_1200x800-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/10_1200x800-300x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/10_1200x800-600x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/10_1200x800-768x513.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/10_1200x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/1_HOME_2560x1700-1024x684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/1_HOME_2560x1700-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/1_HOME_2560x1700-300x200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/1_HOME_2560x1700-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/1_HOME_2560x1700-768x513.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/1_HOME_2560x1700.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/2_1200x800-2-1024x683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/2_1200x800-2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/2_1200x800-2-300x200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/2_1200x800-2-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/2_1200x800-2-768x512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/2_1200x800-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/3_1200x800-2-1024x684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/3_1200x800-2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/3_1200x800-2-300x200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/3_1200x800-2-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/3_1200x800-2-768x513.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/3_1200x800-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/4_1200x800-2-1024x684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/4_1200x800-2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/4_1200x800-2-300x200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/4_1200x800-2-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/4_1200x800-2-768x513.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/4_1200x800-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/5-1200x1798-2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/5-1200x1798-2-200x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/5-1200x1798-2-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/5-1200x1798-2-683x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/5-1200x1798-2-768x1151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/5-1200x1798-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/6_1200x1798-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/6_1200x1798-200x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/6_1200x1798-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/6_1200x1798-683x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/6_1200x1798-768x1151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/6_1200x1798.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/7_1200x800-1024x683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/7_1200x800-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/7_1200x800-300x200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/7_1200x800-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/7_1200x800-768x512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/7_1200x800.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/8_1200x800-1024x699.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/8_1200x800-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/8_1200x800-300x205.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/8_1200x800-600x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/8_1200x800-768x524.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/8_1200x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/9_1200x800-1024x684.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/9_1200x800-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/9_1200x800-300x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/9_1200x800-600x600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/9_1200x800-768x513.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/9_1200x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/Réalisation_1200x800-1024x684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/Réalisation_1200x800-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/Réalisation_1200x800-300x200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/Réalisation_1200x800-600x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/Réalisation_1200x800-768x513.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2017/05/Réalisation_1200x800.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/admin-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/duplicatepage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/languages/duplicate_page-cs_CZ.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/languages/duplicate_page-hi_IN.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/languages/duplicate_page.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/duplicate-page/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium.eot" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium.svg" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium.woff" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium.woff2" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/regular/GTWalsheimProRegular.eot" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/regular/GTWalsheimProRegular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/regular/GTWalsheimProRegular.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/regular/GTWalsheimProRegular.woff" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/regular/GTWalsheimProRegular.woff2" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/elleetla-new.iml" afterPath="$PROJECT_DIR$/.idea/elleetla-new.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,14 +17,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5871698">
+    <splitter split-orientation="horizontal" split-proportion="0.6">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="realisations.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="683">
-                  <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+                <state relative-caret-position="600">
+                  <caret line="42" column="67" lean-forward="false" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
                   <folding>
                     <element signature="e#6#39#0#PHP" expanded="true" />
                   </folding>
@@ -138,11 +35,10 @@
           <file leaf-file-name="metiers.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="234">
-                  <caret line="139" column="49" lean-forward="true" selection-start-line="139" selection-start-column="49" selection-end-line="139" selection-end-column="49" />
+                <state relative-caret-position="609">
+                  <caret line="181" column="5" lean-forward="true" selection-start-line="181" selection-start-column="5" selection-end-line="181" selection-end-column="5" />
                   <folding>
                     <element signature="e#6#34#0#PHP" expanded="true" />
-                    <marker date="1496936782000" expanded="true" signature="5072:5189" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -151,8 +47,8 @@
           <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="38" column="140" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="140" />
+                <state relative-caret-position="570">
+                  <caret line="38" column="140" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="140" />
                   <folding />
                 </state>
               </provider>
@@ -161,22 +57,22 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="654">
-                  <caret line="1181" column="22" lean-forward="true" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+                <state relative-caret-position="626">
+                  <caret line="1165" column="14" lean-forward="false" selection-start-line="1165" selection-start-column="14" selection-end-line="1165" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="709">
-                  <caret line="117" column="24" lean-forward="false" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
+                <state relative-caret-position="1275">
+                  <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -205,9 +101,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/header-projet.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/404.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css" />
       </list>
     </option>
   </component>
@@ -219,9 +115,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="585" />
-    <option name="y" value="128" />
-    <option name="width" value="1325" />
+    <option name="x" value="966" />
+    <option name="y" value="183" />
+    <option name="width" value="950" />
     <option name="height" value="850" />
   </component>
   <component name="ProjectView">
@@ -435,33 +331,35 @@
       <workItem from="1492070548787" duration="245000" />
       <workItem from="1493106011538" duration="3043000" />
       <workItem from="1496848290954" duration="814000" />
-      <workItem from="1496908307185" duration="14579000" />
+      <workItem from="1496908307185" duration="14741000" />
+      <workItem from="1496994166467" duration="10533000" />
+      <workItem from="1497275352264" duration="420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18681000" />
+    <option name="totallyTimeSpent" value="29796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="585" y="128" width="1325" height="850" extended-state="0" />
+    <frame x="966" y="183" width="950" height="850" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30037737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -478,6 +376,60 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="67" lean-forward="true" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+          <folding>
+            <element signature="e#6#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="140" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="140" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="183" column="13" lean-forward="true" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+          <folding>
+            <element signature="e#6#34#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -492,7 +444,6 @@
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <marker date="1496936782000" expanded="true" signature="5072:5189" ph="..." />
           </folding>
         </state>
       </provider>
@@ -533,48 +484,47 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-          <folding>
-            <element signature="e#6#39#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="38" column="140" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="140" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="1181" column="22" lean-forward="true" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+        <state relative-caret-position="570">
+          <caret line="38" column="140" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="140" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="117" column="24" lean-forward="false" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
+        <state relative-caret-position="1275">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="67" lean-forward="false" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+          <folding>
+            <element signature="e#6#39#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="139" column="49" lean-forward="true" selection-start-line="139" selection-start-column="49" selection-end-line="139" selection-end-column="49" />
+        <state relative-caret-position="609">
+          <caret line="181" column="5" lean-forward="true" selection-start-line="181" selection-start-column="5" selection-end-line="181" selection-end-column="5" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <marker date="1496936782000" expanded="true" signature="5072:5189" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="1165" column="14" lean-forward="false" selection-start-line="1165" selection-start-column="14" selection-end-line="1165" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
