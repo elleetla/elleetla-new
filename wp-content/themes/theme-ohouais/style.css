@@ -3,7 +3,7 @@ Theme Name: Ohouais WP
 Theme URI: http://www.theme.ohouais.com
 Author: Ohouais
 Author URI: http://www.ohouais.com
-Description: Notre thèmes "Ohouais WP" a été conçu pour créer tout typre de site internet
+Description: Notre thÃ¨mes "Ohouais WP" a Ã©tÃ© conÃ§u pour crÃ©er tout typre de site internet
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 1.0.2
@@ -93,31 +93,31 @@ a img.aligncenter {
 
 /* Text meant only for screen readers. */
 .screen-reader-text {
-	clip: rect(1px, 1px, 1px, 1px);
-	position: absolute !important;
-	height: 1px;
-	width: 1px;
-	overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
 }
 
 .screen-reader-text:focus {
-	background-color: #f1f1f1;
-	border-radius: 3px;
-	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
-	clip: auto !important;
-	color: #21759b;
-	display: block;
-	font-size: 14px;
-	font-size: 0.875rem;
-	font-weight: bold;
-	height: auto;
-	left: 5px;
-	line-height: normal;
-	padding: 15px 23px 14px;
-	text-decoration: none;
-	top: 5px;
-	width: auto;
-	z-index: 100000; /* Above WP toolbar. */
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000; /* Above WP toolbar. */
 }
 
 
@@ -125,48 +125,24 @@ a img.aligncenter {
 
 @font-face {
     font-family: 'GTWalsheimProMedium';
-    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.eot');
-    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.woff2') format('woff2'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.woff') format('woff'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.ttf') format('truetype'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.svg#GTWalsheimProMedium') format('svg'),
-    url('fonts/GTWalsheimPro/GTWalsheimProMedium/GTWalsheimProMedium.eot?#iefix') format('embedded-opentype');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium.eot');
+    src: url('fonts/GTWalsheimPro/GTWalsheimProMedium.woff2') format('woff2'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium.woff') format('woff'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium.ttf') format('truetype'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium.svg#GTWalsheimProMedium') format('svg'),
+    url('fonts/GTWalsheimPro/GTWalsheimProMedium.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GTWalsheimProRegular';
-    src: url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.eot');
-    src: url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.woff2') format('woff2'),
-    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.woff') format('woff'),
-    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.ttf') format('truetype'),
-    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.svg#GTWalsheimProRegular') format('svg'),
-    url('fonts/GTWalsheimPro/GTWalsheimProRegular/GTWalsheimProRegular.eot?#iefix') format('embedded-opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GTWalsheimProBold';
-    src: url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.eot');
-    src: url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.woff2') format('woff2'),
-    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.woff') format('woff'),
-    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.ttf') format('truetype'),
-    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.svg#GTWalsheimProBold') format('svg'),
-    url('fonts/GTWalsheimPro/GTWalsheimProBold/GTWalsheimProBold.eot?#iefix') format('embedded-opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GTWalsheimProLight';
-    src: url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.eot');
-    src: url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.woff2') format('woff2'),
-    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.woff') format('woff'),
-    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.ttf') format('truetype'),
-    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.svg#GTWalsheimProLight') format('svg'),
-    url('fonts/GTWalsheimPro/GTWalsheimProLight/GTWalsheimProLight.eot?#iefix') format('embedded-opentype');
+    src: url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.eot');
+    src: url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.woff2') format('woff2'),
+    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.woff') format('woff'),
+    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.ttf') format('truetype'),
+    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.svg#GTWalsheimProRegular') format('svg'),
+    url('fonts/GTWalsheimPro/regular/GTWalsheimProRegular.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -183,6 +159,16 @@ body{
     font-weight: 300;
     color: #0000a0;
     background-color: #ffffff;
+}
+
+.page-template-metiers{
+    background: -moz-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(248,249,253,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* ie10+ */
+    background: linear-gradient(0deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8f9fd',GradientType=0 ); /* ie6-9 */
 }
 
 .page-id-1313 {
@@ -339,14 +325,14 @@ h6{
 }
 
 /***************************************************************/
-/****************** Projet réalisations ******************/
+/****************** Projet rÃ©alisations ******************/
 /***************************************************************/
 
 ul#filters {
     margin: 0px;
     text-align: center;
     text-transform: uppercase;
-    font-size: 12px; /* à convertir */
+    font-size: 12px; /* Ã  convertir */
     padding:0px;
 }
 
@@ -888,7 +874,7 @@ p.btn-player-project a:hover img{
     left:0;
     right:0;
     bottom:0;
-    background-color:#f6f8fe;
+    background-color:#0000a0;
     z-index:99;
 }
 
@@ -898,7 +884,7 @@ p.btn-player-project a:hover img{
     position:absolute;
     left:50%;
     top:50%;
-    background-image:url(../images/logo.png);
+    background-image:url(images/logo-white.png);
     background-repeat:no-repeat;
     background-position:center;
     -webkit-background-size:140px 182px;
@@ -915,6 +901,7 @@ p.btn-player-project a:hover img{
     font-weight: normal;
     padding: 34px 0px 34px 0px;
     font-size: 0.875em; /* equivalant de 17px */
+    background-color: #ffffff;
 }
 
 .error404 #footer-principal {
@@ -994,7 +981,7 @@ p.btn-player-project a:hover img{
 }
 
 /******************************/
-/* Page actualités */
+/* Page actualitÃ©s */
 /******************************/
 
 .post-perso, .comments-template{
@@ -1102,9 +1089,117 @@ p.btn-player-project a:hover img{
     height:auto;
 }
 
+/******************************/
+/* Page metier */
+/******************************/
+
+#intro-metier span {
+    font-size: 30px !important;
+}
+
+#section-profils {
+    padding: 60px 0 160px 0;
+    position: relative;
+}
+
+.bloc-text {
+    position: absolute;
+    left: 0;
+    top: 40px;
+    padding: 35px;
+    font-size: 22px;
+    z-index: 3;
+    overflow: hidden;
+    width: 56%;
+    background-color: #ffffff;
+    line-height: 32px;
+}
+
+.bloc-text-right {
+    position: absolute;
+    right: 0;
+    bottom: 120px;
+    padding: 35px;
+    font-size: 22px;
+    z-index: 3;
+    overflow: hidden;
+    width: 56%;
+    height:72%;
+    background-color: #ffffff;
+    line-height: 32px;
+
+}
+
+.bloc-text h3{
+    font-size: 44px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    line-height: 48px;
+}
+
+.bloc-text-right h3{
+    font-size: 44px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    line-height: 48px;
+}
+
+
+.name-img span {
+    display: block;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.name-img {
+    text-align: right;
+    line-height: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.bloc-text-right .name-img span {
+    display: block;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.bloc-text-right .name-img {
+    text-align: left;
+    line-height: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.const-1{
+    position: relative;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.plus-infos {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: none;
+    color: #ffffff;
+    height: 100%;
+    background: #0000a0;
+    padding: 80px 35px;
+}
+
+a.close-infos-comment {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
 
 /******************************/
-/* Page mentions légales */
+/* Page mentions lÃ©gales */
 /******************************/
 
 .page-id-87 h3 {
@@ -1132,132 +1227,22 @@ p.btn-player-project a:hover img{
 
 
 /******************************/
-/* Page Métiers */
+/* Page Equipe */
 /******************************/
-.metiers-introduction{
-    margin: 35px 15%;
-    font-size:30px;
+
+.bloc-desc-profile h1 {
+    margin: 0px 0px 8px 0px;
 }
 
-#metiers-content{
-    padding: 100px 17% 0;
-    background:#f6f7fc;
+.bloc-desc-profile h2 {
+    margin: 0px 0px 4px 0px;
+    font-size: 22px;
 }
 
-.metiers-row{
-    height:600px;
-    margin:65px 0;
-    display:block;
-}
-.metiers-membre{
-    margin-right:50px;
+.profiles-agence h3 {
+    margin: 0px 0px 20px 0px;
 }
 
-.metiers-membre img{
-    width:582px;
-    height:555px;
-    margin-top:-525px;
-}
-
-.metiers-bloc{
-    padding: 50px 40px;
-    width:681px;
-    height:475px;
-    background-color: #ffffff;
-}
-.metiers-title{
-    font-size:44px;
-    line-height: 1.2;
-    margin-bottom:25px;
-}
-
-.metiers-description{
-    margin-bottom:45px;
-}
-
-.button-comment{
-    background-color: transparent;
-    border:none;
-    color: #dba900;
-}
-
-.metiers-comment{
-    background-color: #0000a0;
-    color:#ffffff;
-    padding:35px 55px;
-    width:681px;
-    height:475px;
-    display:none;
-
-}
-.metiers-comment img{
-    width:21px;
-    height:21px;
-}
-
-.comment-title{
-    margin-bottom:35px;
-}
-
-
-/* alternation texte-image */
-/* text on the left, image on the right*/
-
-.membre-right{
-    float:right;
-}
-
-.membre-right p{
-    text-align:right;
-}
-
-.comment-left,
-.bloc-left{
-    position:relative;
-    z-index:1;
-}
-
-/* image on the left, text on the right */
-.membre-left{
-    padding-top: 475px;
-}
-
-.comment-right,
-.bloc-right{
-    position:relative;
-    float:right;
-}
-
-
-
-.metiers-conclusion{
-    text-align:center;
-    font-size:26px;
-    margin-bottom:70px;
-}
-
-#conclusion2{
-    color: #dba900;
-}
-
-
-
-.button-comment,
-.img-caption,
-.conclusion2{
-    font-family: 'GTWalsheimProMedium', sans-serif;
-}
-
-.metiers-title,
-.comment-title{
-    font-family: 'GTWalsheimProBold', sans-serif;
-}
-
-.metiers-description,
-.metiers-comment,
-#conclusion1{
-    font-family: 'GTWalsheimProLight', sans-serif;
-}
 
 /* test */
 
@@ -1395,6 +1380,12 @@ p.btn-player-project a:hover img{
 
 @media only screen and (max-width : 767px) {
 
+    .bloc-text,
+    .bloc-text-right{
+        position: relative;
+        width: 100%;
+    }
+
     #logo {
         display: inline-block;
         margin: 16px 15px;
@@ -1446,7 +1437,7 @@ p.btn-player-project a:hover img{
         margin-top: 0px;
     }
 
-    /* Page équipe */
+    /* Page Ã©quipe */
 
     .bloc-desc-profile{
         margin-bottom: 50px;
