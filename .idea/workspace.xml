@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dcad67c1-f04d-4cab-9cbf-64b164fa5720" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +17,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5715245">
+    <splitter split-orientation="horizontal" split-proportion="0.5474765">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="realisations.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="54">
-                  <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+                <state relative-caret-position="570">
+                  <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
                   <folding>
                     <element signature="e#6#39#0#PHP" expanded="true" />
                   </folding>
@@ -37,12 +35,10 @@
           <file leaf-file-name="metiers.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="424">
-                  <caret line="105" column="38" lean-forward="true" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
+                <state relative-caret-position="450">
+                  <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
                   <folding>
                     <element signature="e#6#34#0#PHP" expanded="true" />
-                    <element signature="e#436#1567#0#HTML" expanded="false" />
-                    <element signature="e#1641#2749#0#HTML" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -65,8 +61,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="249">
-                  <caret line="1383" column="20" lean-forward="false" selection-start-line="1383" selection-start-column="20" selection-end-line="1383" selection-end-column="20" />
+                <state relative-caret-position="8">
+                  <caret line="1338" column="0" lean-forward="true" selection-start-line="1338" selection-start-column="0" selection-end-line="1338" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -75,7 +71,7 @@
           <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="663">
+                <state relative-caret-position="1065">
                   <caret line="71" column="3" lean-forward="false" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
                   <folding />
                 </state>
@@ -121,9 +117,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
+    <option name="x" value="340" />
     <option name="y" value="23" />
-    <option name="width" value="1729" />
+    <option name="width" value="1169" />
     <option name="height" value="850" />
   </component>
   <component name="ProjectView">
@@ -141,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,7 +206,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -315,18 +311,19 @@
       <workItem from="1496994166467" duration="10533000" />
       <workItem from="1497275352264" duration="420000" />
       <workItem from="1497343891540" duration="1005000" />
-      <workItem from="1497599144229" duration="7732000" />
+      <workItem from="1497599144229" duration="8414000" />
+      <workItem from="1497858621857" duration="2547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38533000" />
+    <option name="totallyTimeSpent" value="41762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1729" height="850" extended-state="0" />
+    <frame x="340" y="23" width="1169" height="850" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13880856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13857998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -377,6 +374,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+          <folding>
+            <element signature="e#6#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="140" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="140" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#34#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="3" lean-forward="false" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -391,8 +432,6 @@
           <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <element signature="e#436#1567#0#HTML" expanded="false" />
-            <element signature="e#1641#2749#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -429,8 +468,6 @@
           <caret line="181" column="5" lean-forward="true" selection-start-line="181" selection-start-column="5" selection-end-line="181" selection-end-column="5" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <element signature="e#436#1567#0#HTML" expanded="false" />
-            <element signature="e#1641#2749#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -475,8 +512,6 @@
           <caret line="183" column="13" lean-forward="true" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <element signature="e#436#1567#0#HTML" expanded="false" />
-            <element signature="e#1641#2749#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -523,8 +558,6 @@
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <element signature="e#436#1567#0#HTML" expanded="false" />
-            <element signature="e#1641#2749#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -575,8 +608,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/realisations.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+        <state relative-caret-position="570">
+          <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
           <folding>
             <element signature="e#6#39#0#PHP" expanded="true" />
           </folding>
@@ -585,7 +618,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="1065">
           <caret line="71" column="3" lean-forward="false" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
           <folding />
         </state>
@@ -593,20 +626,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/metiers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="105" column="38" lean-forward="true" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
+        <state relative-caret-position="450">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
-            <element signature="e#436#1567#0#HTML" expanded="false" />
-            <element signature="e#1641#2749#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/theme-ohouais/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="1383" column="20" lean-forward="false" selection-start-line="1383" selection-start-column="20" selection-end-line="1383" selection-end-column="20" />
+        <state relative-caret-position="8">
+          <caret line="1338" column="0" lean-forward="true" selection-start-line="1338" selection-start-column="0" selection-end-line="1338" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1376,6 +1376,11 @@ a.close-infos-comment {
         margin-bottom: 30px;
     }
 
+    .plus-infos{
+
+        overflow: scroll;
+    }
+
 }
 
 @media only screen and (max-width : 767px) {
@@ -1384,6 +1389,11 @@ a.close-infos-comment {
     .bloc-text-right{
         position: relative;
         width: 100%;
+    }
+
+    .plus-infos{
+
+        overflow: scroll;
     }
 
     #logo {
