@@ -1093,12 +1093,12 @@ p.btn-player-project a:hover img{
 /* Page metier */
 /******************************/
 
-#intro-metier span {
-    font-size: 30px !important;
+#intro-metier p {
+    font-size: 28px !important;
 }
 
 #section-profils {
-    padding: 60px 0 160px 0;
+    padding: 60px 0 10px 0;
     position: relative;
 }
 
@@ -1107,7 +1107,7 @@ p.btn-player-project a:hover img{
     left: 0;
     top: 40px;
     padding: 35px;
-    font-size: 22px;
+    font-size: 16px;
     z-index: 3;
     overflow: hidden;
     width: 56%;
@@ -1120,7 +1120,7 @@ p.btn-player-project a:hover img{
     right: 0;
     bottom: 120px;
     padding: 35px;
-    font-size: 22px;
+    font-size: 16px;
     z-index: 3;
     overflow: hidden;
     width: 56%;
@@ -1130,51 +1130,50 @@ p.btn-player-project a:hover img{
 
 }
 
-.bloc-text h3{
-    font-size: 44px;
+.bloc-text h4,
+.bloc-text-right h4,
+.comment{
     font-weight: bold;
     margin-bottom: 20px;
     line-height: 48px;
 }
 
-.bloc-text-right h3{
-    font-size: 44px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    line-height: 48px;
-}
-
-
-.name-img span {
+.figcaption span {
     display: block;
     font-size: 14px;
     font-weight: lighter;
 }
 
-.name-img {
-    text-align: right;
+.figcaption {
     line-height: 20px;
-    font-weight: bold;
     padding-top: 20px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
-.bloc-text-right .name-img span {
+.caption-right{
+    text-align: right;
+}
+
+.caption-left{
+    text-align: left;
+}
+
+/*.bloc-text-right .figcaption span {
     display: block;
     font-size: 14px;
     font-weight: lighter;
 }
 
-.bloc-text-right .name-img {
+.bloc-text-right .figcaption {
     text-align: left;
     line-height: 20px;
-    font-weight: bold;
     padding-top: 20px;
-    font-size: 16px;
-}
+    font-size: 14px;
+}*/
 
 .const-1{
     position: relative;
+    margin:50px 0;
 }
 
 .clearfix{
@@ -1188,14 +1187,24 @@ p.btn-player-project a:hover img{
     display: none;
     color: #ffffff;
     height: 100%;
+    width: 100%;
     background: #0000a0;
-    padding: 80px 35px;
+    padding: 50px 35px;
+}
+
+.comment {
+    font-size:23px;
 }
 
 a.close-infos-comment {
     position: absolute;
     top: 20px;
     right: 20px;
+    width:5%;
+}
+
+.close-infos-comment img{
+    width: 20px;
 }
 
 /******************************/
