@@ -3,7 +3,7 @@ Theme Name: Ohouais WP
 Theme URI: http://www.theme.ohouais.com
 Author: Ohouais
 Author URI: http://www.ohouais.com
-Description: Notre thÃ¨mes "Ohouais WP" a Ã©tÃ© conÃ§u pour crÃ©er tout typre de site internet
+Description: Notre thÃƒÂ¨mes "Ohouais WP" a ÃƒÂ©tÃƒÂ© conÃƒÂ§u pour crÃƒÂ©er tout typre de site internet
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 1.0.2
@@ -162,20 +162,7 @@ body{
 }
 
 .page-template-metiers{
-    background: -moz-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* ff3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(248,249,253,1))); /* safari4+,chrome */
-    background: -webkit-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* safari5.1+,chrome10+ */
-    background: -o-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* opera 11.10+ */
-    background: -ms-linear-gradient(90deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* ie10+ */
-    background: linear-gradient(0deg, rgba(248,249,253,1) 0%, rgba(255,255,255,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8f9fd',GradientType=0 ); /* ie6-9 */
-}
-
-.page-id-1313 {
-    font-family: 'GTWalsheimProRegular', sans-serif;
-    background-color: #0000a0;
-    color: #ffffff;
-    font-size: 16px;
+    background-color: #f8f9fd;
 }
 
 /******************************/
@@ -201,6 +188,7 @@ a{
     -webkit-transition: all 0.35s ease-in-out 0s;
     -moz-transition: all 0.35s ease-in-out 0s;
     -o-transition: all 0.35s ease-in-out 0s;
+    cursor: pointer;
 }
 
 a:hover, a:focus{
@@ -264,6 +252,10 @@ h6{
     width: 50%;
 }
 
+.no-padding{
+    padding: 0;
+}
+
 /* background color */
 
 .bg-white{
@@ -325,14 +317,14 @@ h6{
 }
 
 /***************************************************************/
-/****************** Projet rÃ©alisations ******************/
+/****************** Projet rÃƒÂ©alisations ******************/
 /***************************************************************/
 
 ul#filters {
     margin: 0px;
     text-align: center;
     text-transform: uppercase;
-    font-size: 12px; /* Ã  convertir */
+    font-size: 12px; /* Ãƒ  convertir */
     padding:0px;
 }
 
@@ -574,7 +566,7 @@ p.btn-player-project a:hover img{
 }
 
 .page-id-1313 .contact-list{
-    color: #fff;
+    /*color: #fff;*/
     background-color: inherit;
     padding: 30px 0px 10px 0px;
 }
@@ -589,9 +581,9 @@ p.btn-player-project a:hover img{
     font-family: 'GTWalsheimProRegular', sans-serif;
 }
 
-.page-id-1313 #detail-contact-listing a:hover {
+/*.page-id-1313 #detail-contact-listing a:hover {
     color: #fff;
-}
+}*/
 
 
 
@@ -752,13 +744,13 @@ p.btn-player-project a:hover img{
     cursor: pointer;
 }
 
-.page-id-1313 .navbar-default #menu-menu-primaire-right li a{ /* pour la page agence */
-    color: #ffffff;
-}
+/*.page-id-1313 .navbar-default #menu-menu-primaire-right li a{ !* pour la page agence *!*/
+    /*color: #ffffff;*/
+/*}*/
 
-.page-id-1313 .navbar-default #menu-menu-primaire-right a:hover{ /* pour la page agence */
-    color: #ffffff;
-}
+/*.page-id-1313 .navbar-default #menu-menu-primaire-right a:hover{ !* pour la page agence *!*/
+    /*color: #ffffff;*/
+/*}*/
 
 .page-id-1313 .navbar-default #menu-menu-primaire-right a:focus{ /* pour la page agence */
     background:inherit;
@@ -767,7 +759,7 @@ p.btn-player-project a:hover img{
 .page-id-1313 .navbar-default #menu-menu-primaire-right .active a{ /* pour la page agence */
     background:inherit;
     font-weight: 400;
-    color: #ffffff;
+    /*color: #ffffff;*/
 }
 
 .navbar-default .navbar-header{
@@ -827,9 +819,9 @@ p.btn-player-project a:hover img{
     width: 20px;
 }
 
-.page-id-1313 .navbar-default .navbar-header .navbar-toggle .icon-bar {
-    background-color: #ffffff;
-}
+/*.page-id-1313 .navbar-default .navbar-header .navbar-toggle .icon-bar {*/
+    /*background-color: #ffffff;*/
+/*}*/
 
 .navbar-default #menu-menu-primaire-right .dropdown-menu {
     padding: 12px 0px;
@@ -916,9 +908,9 @@ p.btn-player-project a:hover img{
     margin: 0px;
 }
 
-.page-id-1313 .mentions-footer p{
-    color: #ffffff;
-}
+/*.page-id-1313 .mentions-footer p{
+    color: #0000a0;
+}*/
 
 /******************************/
 /* Page d'accueil */
@@ -981,7 +973,7 @@ p.btn-player-project a:hover img{
 }
 
 /******************************/
-/* Page actualitÃ©s */
+/* Page actualitÃƒÂ©s */
 /******************************/
 
 .post-perso, .comments-template{
@@ -1093,19 +1085,21 @@ p.btn-player-project a:hover img{
 /* Page metier */
 /******************************/
 
-#intro-metier p {
-    font-size: 28px !important;
+#intro-metier{
+    font-size: 26px;
+    width: 73%;
+    margin: 0 auto;
+    line-height: 34px;
 }
 
 #section-profils {
-    padding: 60px 0 10px 0;
+    padding: 30px 0 0px 0;
     position: relative;
 }
 
-.bloc-text {
+.bloc-text,
+.bloc-text-right{
     position: absolute;
-    left: 0;
-    top: 40px;
     padding: 35px;
     font-size: 16px;
     z-index: 3;
@@ -1115,27 +1109,57 @@ p.btn-player-project a:hover img{
     line-height: 32px;
 }
 
+.bloc-text {
+    left: 0;
+    top: 40px;
+}
+
+
 .bloc-text-right {
-    position: absolute;
     right: 0;
     bottom: 120px;
-    padding: 35px;
-    font-size: 16px;
-    z-index: 3;
-    overflow: hidden;
-    width: 56%;
-    height:72%;
-    background-color: #ffffff;
-    line-height: 32px;
+}
 
+#last-bloc-infos{
+    height: 380px;
 }
 
 .bloc-text h4,
 .bloc-text-right h4,
 .comment{
+    position:relative;
     font-weight: bold;
-    margin-bottom: 20px;
-    line-height: 48px;
+    margin-bottom: 25px;
+    line-height: 34px;
+    display:inline-block;
+    font-size: 28px;
+    margin-top: 0;
+}
+
+/* draw line under title */
+.bloc-text span,
+.bloc-text-right span{
+    position:relative;
+}
+
+.bloc-text span:after,
+.bloc-text-right span:after{
+    background: #e5f4ff;
+    content: "";
+    display: block;
+    height: 15px;
+    position: absolute;
+    top: 23px;
+    width: 100%;
+    z-index:-1;
+}
+
+#title3 span:after{
+    top:57px;
+}
+
+.bloc-text p, .bloc-text-right p {
+    line-height: 26px;
 }
 
 .figcaption span {
@@ -1174,6 +1198,7 @@ p.btn-player-project a:hover img{
 .const-1{
     position: relative;
     margin:50px 0;
+    padding: 0 15px;
 }
 
 .clearfix{
@@ -1198,17 +1223,18 @@ p.btn-player-project a:hover img{
 
 a.close-infos-comment {
     position: absolute;
-    top: 20px;
-    right: 20px;
-    width:5%;
+    top: 40px;
+    right: 40px;
+    display: block;
+    line-height: 0;
 }
 
 .close-infos-comment img{
-    width: 20px;
+    width: 18px;
 }
 
 /******************************/
-/* Page mentions lÃ©gales */
+/* Page mentions lÃƒÂ©gales */
 /******************************/
 
 .page-id-87 h3 {
@@ -1323,6 +1349,41 @@ a.close-infos-comment {
         height: 620px;
     }
 
+    /*Page MÃ©tiers*/
+    /*#title1 span:before {
+        position: absolute;
+        background-color: #e5f4ff;
+        content: "";
+        display: block;
+        height: 15px;
+        top: 23px;
+        width: 425px;
+        z-index: -1;
+    }
+
+    #title1 span:after {
+        top: 57px;
+    }
+
+    #title3 span:before {
+        position: absolute;
+        background-color: #e5f4ff;
+        content: "";
+        display: block;
+        height: 15px;
+        top: 23px;
+        width: 425px;
+        z-index: -1;
+    }
+
+    #title3 span:after {
+        top: 57px;
+    }*/
+
+    #title1 span:after,
+    #title3 span:after{
+        top:57px;
+    }
 }
 
 @media only screen and (max-width : 991px) {
@@ -1385,25 +1446,42 @@ a.close-infos-comment {
         margin-bottom: 30px;
     }
 
-    .plus-infos{
+    /*.plus-infos{
 
         overflow: scroll;
+    }*/
+
+    .bloc-text,
+    .bloc-text-right {
+        position: relative;
+        width: 100%;
+    }
+
+    .bloc-text {
+        top: 0px;
+    }
+
+    .bloc-text-right {
+        bottom: 0px;
+    }
+
+    .caption-right {
+        text-align: left;
+    }
+
+    /* Page Métiers */
+    #title1 span:after{
+        top:23px;
     }
 
 }
 
 @media only screen and (max-width : 767px) {
 
-    .bloc-text,
-    .bloc-text-right{
-        position: relative;
-        width: 100%;
-    }
-
-    .plus-infos{
+    /*.plus-infos{
 
         overflow: scroll;
-    }
+    }*/
 
     #logo {
         display: inline-block;
@@ -1456,7 +1534,7 @@ a.close-infos-comment {
         margin-top: 0px;
     }
 
-    /* Page Ã©quipe */
+    /* Page ÃƒÂ©quipe */
 
     .bloc-desc-profile{
         margin-bottom: 50px;
@@ -1509,9 +1587,30 @@ a.close-infos-comment {
         font-size: 20px;
     }
 
+    /* Page Métiers */
+    #intro-metier {
+        font-size:24px;
+    }
+
+    a.close-infos-comment {
+        right: 40px;
+    }
+
+
 }
 
-@media only screen and (max-width : 480px) {
+@media only screen and (max-width : 637px){
+    /* Page MÃ©tiers*/
+    #title1 span:after{
+        top:57px;
+    }
+
+    .close-infos-comment{
+        right: 30px;
+    }
+}
+
+@media only screen and (max-width : 471px) {
 
     .title-fullwidth {
         padding: 130px 0px;
@@ -1535,13 +1634,130 @@ a.close-infos-comment {
         margin-top: -17px;
     }
 
+    /* Page MÃ©tiers*/
+    #intro-metier {
+        font-size:22px;
+    }
+
+    #first-bloc-infos{
+        height: 450px;
+    }
+
+    #last-bloc-infos{
+        height: 425px;
+    }
+
+    #title3 span:after{
+        top:91px;
+    }
+
 }
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 439px){
+
+    /* Page Métiers */
+    #first-bloc-infos{
+        height: 475px;
+    }
+
+    #last-bloc-infos{
+        height: 450px;
+    }
+
+
+}
+
+@media only screen and (max-width: 368px){
+    /* Page Métiers */
+    #title2 span:after{
+        top:57px;
+    }
+
+    #title3 span:after{
+        top:125px;
+    }
+
+    #first-bloc-infos{
+        height: 530px;
+    }
+    #last-bloc-infos{
+        height: 530px;
+    }
+}
+
+
+@media only screen and (max-width : 358px) {
 
 
     .banner-project{
         height: 150px;
+    }
+
+    /* Page Métiers */
+    #intro-metier {
+        font-size:21px;
+    }
+
+    #title1 span:after{
+        top:91px;
+    }
+
+    #title4 span:after{
+        top:57px;
+    }
+
+    #first-bloc-infos{
+        height: 580px;
+    }
+    #last-bloc-infos{
+        height: 550px;
+    }
+}
+
+@media only screen and (max-width : 312px){
+    /* Page Métiers */
+    #title1 span:after{
+        top:125px;
+    }
+
+    #first-bloc-infos{
+        height: 630px;
+    }
+
+    #last-bloc-infos{
+        height: 580px;
+    }
+}
+
+@media only screen and (max-width : 294px){
+    #intro-metier {
+        font-size:18px;
+    }
+
+    #first-bloc-infos{
+        height: 655px;
+    }
+
+    #last-bloc-infos{
+        height:605px;
+    }
+}
+
+@media only screen and (max-width : 279px){
+    /*Page Métiers*/
+    #intro-metier {
+        font-size:16px;
+    }
+    #title3 span:after{
+        top:159px;
+    }
+
+    #first-bloc-infos{
+        height: 850px;
+    }
+
+    #last-bloc-infos{
+        height: 700px;
     }
 
 }

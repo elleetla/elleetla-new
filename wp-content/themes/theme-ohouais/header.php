@@ -37,7 +37,7 @@
 
                         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 close-contact-listing">
                             <p class="close1"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close.png"></a></p>
-                            <p class="close2"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close-white.png"></a></p>
+                            <p class="close2"><a><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/close.png"></a></p>
                         </div>
                     </div><!-- ./row -->
                 </div><!-- ./container -->
@@ -56,7 +56,7 @@
 					<?php if ( get_header_image() ) : ?>
 						<a href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'>
 							<img class="logo1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/logo.png">
-							<img class="logo2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/logo-white.png">
+							<img class="logo2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/logo.png">
 						</a>
 					<?php else : ?>
 			    		<h1 itemprop="headline">
