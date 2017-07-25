@@ -1139,10 +1139,15 @@ p.btn-player-project a:hover img{
 /* draw line under title */
 .bloc-text span,
 .bloc-text-right span{
-    position:relative;
+    box-shadow: inset 0 0 white, inset 0 -12px #e5f4ff;
 }
 
-.bloc-text span:after,
+/*.bloc-text span,
+.bloc-text-right span{
+    position:relative;
+}*/
+
+/*.bloc-text span:after,
 .bloc-text-right span:after{
     background: #e5f4ff;
     content: "";
@@ -1152,11 +1157,11 @@ p.btn-player-project a:hover img{
     top: 23px;
     width: 100%;
     z-index:-1;
-}
+}*/
 
-#title3 span:after{
+/*#title3 span:after{
     top:57px;
-}
+}*/
 
 .bloc-text p, .bloc-text-right p {
     line-height: 26px;
@@ -1349,7 +1354,7 @@ a.close-infos-comment {
         height: 620px;
     }
 
-    /*Page MÃ©tiers*/
+    /*Page Metiers*/
     /*#title1 span:before {
         position: absolute;
         background-color: #e5f4ff;
@@ -1380,10 +1385,10 @@ a.close-infos-comment {
         top: 57px;
     }*/
 
-    #title1 span:after,
+    /*#title1 span:after,
     #title3 span:after{
         top:57px;
-    }
+    }*/
 }
 
 @media only screen and (max-width : 991px) {
@@ -1469,10 +1474,10 @@ a.close-infos-comment {
         text-align: left;
     }
 
-    /* Page Métiers */
-    #title1 span:after{
+    /* Page Metiers */
+    /*#title1 span:after{
         top:23px;
-    }
+    }*/
 
 }
 
@@ -1600,10 +1605,10 @@ a.close-infos-comment {
 }
 
 @media only screen and (max-width : 637px){
-    /* Page MÃ©tiers*/
-    #title1 span:after{
+    /* Page Metiers*/
+    /*#title1 span:after{
         top:57px;
-    }
+    }*/
 
     .close-infos-comment{
         right: 30px;
@@ -1634,7 +1639,7 @@ a.close-infos-comment {
         margin-top: -17px;
     }
 
-    /* Page MÃ©tiers*/
+    /* Page Metiers*/
     #intro-metier {
         font-size:22px;
     }
@@ -1647,9 +1652,9 @@ a.close-infos-comment {
         height: 425px;
     }
 
-    #title3 span:after{
-        top:91px;
-    }
+    /*#title3 span:after{*/
+        /*top:91px;*/
+    /*}*/
 
 }
 
@@ -1669,13 +1674,13 @@ a.close-infos-comment {
 
 @media only screen and (max-width: 368px){
     /* Page Métiers */
-    #title2 span:after{
+    /*#title2 span:after{
         top:57px;
-    }
+    }*/
 
-    #title3 span:after{
+    /*#title3 span:after{
         top:125px;
-    }
+    }*/
 
     #first-bloc-infos{
         height: 530px;
@@ -1693,18 +1698,18 @@ a.close-infos-comment {
         height: 150px;
     }
 
-    /* Page Métiers */
+    /* Page Metiers */
     #intro-metier {
         font-size:21px;
     }
 
-    #title1 span:after{
+    /*#title1 span:after{
         top:91px;
-    }
+    }*/
 
-    #title4 span:after{
+    /*#title4 span:after{
         top:57px;
-    }
+    }*/
 
     #first-bloc-infos{
         height: 580px;
@@ -1715,10 +1720,10 @@ a.close-infos-comment {
 }
 
 @media only screen and (max-width : 312px){
-    /* Page Métiers */
-    #title1 span:after{
+    /* Page Metiers */
+    /*#title1 span:after{
         top:125px;
-    }
+    }*/
 
     #first-bloc-infos{
         height: 630px;
@@ -1744,13 +1749,14 @@ a.close-infos-comment {
 }
 
 @media only screen and (max-width : 279px){
-    /*Page Métiers*/
+    /*Page Metiers*/
     #intro-metier {
         font-size:16px;
     }
-    #title3 span:after{
+
+    /*#title3 span:after{
         top:159px;
-    }
+    }*/
 
     #first-bloc-infos{
         height: 850px;
